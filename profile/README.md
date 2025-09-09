@@ -2,6 +2,14 @@
 
 ### README is a WIP
 
+## The Problem
+
+to put it simply the problem is Google. to be more refined about it, Google has converted the AOSP project from an open and fun project into their latest way to lock you in their ecosystem, harvest your data, and sell your security to the highest bidder. This needs to change.
+
+## The Solution
+
+a community driven fork of the AOSProject. Desined to return control to the community and the consumers. Not security focused, removing the proprietary blobs will help with that, a fork that is focused on easy of use, privacy, and peace of mind.
+
 ## Overview
 Modded Android is a full fork of the Android Open Source Project (AOSP), built from the ground up to return to the core principles of AOSP: openness, flexibility, and user control. Our mission is to provide a clean, customizable, and community-driven Android experience, free from bloatware and proprietary constraints, while staying true to the spirit of open-source development.
 
@@ -17,44 +25,16 @@ Modded Android aims to:
 - **Performance Optimized**: Lightweight design for faster performance and better battery efficiency.
 - **Community-Driven**: Regular updates driven by community feedback and contributions.
 - **Developer-Friendly**: Comprehensive documentation and tools for building custom ROMs and apps.
+- **Custom Hardware**: a goal of creating an open hardware for Modded Android to run on, more information is availible upon request in the [Discord](https://inv.wtf/deadinside)
 
-## Getting Started
-### Prerequisites
-- A compatible Android device (check our [device support list](https://moddedandroid.org/devices)).
-- Basic knowledge of flashing custom ROMs.
-- A computer with ADB and Fastboot tools installed.
-
-### Installation
-1. **Download Modded Android**: Grab the latest build for your device from [our website](https://moddedandroid.org/downloads).
-2. **Unlock Bootloader**: Follow device-specific instructions to unlock your device's bootloader.
-3. **Flash the ROM**:
-   - Boot into recovery mode (e.g., TWRP).
-   - Wipe data, cache, and system partitions.
-   - Flash the Modded Android ZIP file.
-   - Optionally, flash GApps or other add-ons.
-4. **Reboot**: Restart your device and enjoy Modded Android!
 
 ## Contributing
-We welcome contributions from the community! To get involved:
-- **Code Contributions**: Fork our repository on [GitHub](https://github.com/moddedandroid) and submit pull requests.
-- **Bug Reports**: Report issues on our [issue tracker](https://github.com/moddedandroid/issues).
-- **Feature Requests**: Share your ideas on our [community forum](https://moddedandroid.org/forum).
-- **Documentation**: Help improve our docs by submitting updates or translations.
 
-## Building from Source
-To build Modded Android:
-1. Clone the repository: `git clone https://github.com/moddedandroid/source.git`
-2. Set up the build environment: Follow the [AOSP build guide](https://source.android.com/setup/build) with our custom manifest.
-3. Build: `source build/envsetup.sh && lunch moddedandroid_<device>-userdebug && make -j$(nproc)`
-4. Flash the resulting images to your device.
+considering that Modded Android is a part of the larger set of AWfixer and Friends projects, all of the contibution information will be added to [the contribute site](https://contibute.awfixer.com)
+
+if you want to talk to the community it will be in the [Discord Community](https://inv.wtf/deadinside)
+
 
 ## Community and Support
 - **Discord**: Chat with us on our [Discord server](https://inv.wtf/deadinside).
-- **Documentation**: Find guides and FAQs at [docs.moddedandroid.org](https://contribute.awfixer.com).
-
-## License
-Modded Android is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), in line with AOSP. See the `LICENSE` file for details.
-
-## Acknowledgments
-- The Android Open Source Project for providing the foundation.
-- Our amazing community of developers, testers, and users.
+- **Documentation**: Find guides and FAQs at [docs.modded-android.dev](https://contribute.awfixer.com).
