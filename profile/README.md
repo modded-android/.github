@@ -21,7 +21,7 @@ we are currently replacing a number of applications and configurations. namely i
 Modded Android aims to:
 - **Restore AOSP's Roots**: Focus on a lightweight, transparent, and customizable operating system, prioritizing user freedom.
 - **Empower Users and Developers**: Offer extensive customization options and a modular framework for developers to build upon.
-- **Maintain Openness**: Ensure all code is open-source, community-driven, and free from unnecessary vendor integrations.
+- **Maintain Openness**: Ensure all* code is open-source, community-driven, and free from unnecessary vendor integrations.
 
 ## Features
 - **Pure AOSP Base**: Built directly from AOSP, stripped of proprietary apps and services.
@@ -42,3 +42,7 @@ if you want to talk to the community it will be in the [Discord Community](https
 ## Community and Support
 - **Discord**: Chat with us on our [Discord server](https://inv.wtf/deadinside).
 - **Documentation**: Find guides and FAQs at [docs.modded-android.dev](https://contribute.awfixer.com).
+
+
+
+* Code from certain applications like [Notion](https://notion.so) is not currently open source. proprietary applications undergo a different version of scrutiny before they are considered to be a part if the initial release and ecosystem. 
