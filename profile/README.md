@@ -13,6 +13,10 @@ a community driven fork of the AOSProject. Desined to return control to the comm
 ## Overview
 Modded Android is a full fork of the Android Open Source Project (AOSP), built from the ground up to return to the core principles of AOSP: openness, flexibility, and user control. Our mission is to provide a clean, customizable, and community-driven Android experience, free from bloatware and proprietary constraints, while staying true to the spirit of open-source development.
 
+## Current Goals
+
+we are currently replacing a number of applications and configurations. namely in the system partition. Things like Gmail, messages, the keyboard and the DNS configuration are being replaced by open and transparent alternatives. These include but are not limited too Proton applications, the FUTO Keyboard and NextDNS. 
+
 ## Philosophy
 Modded Android aims to:
 - **Restore AOSP's Roots**: Focus on a lightweight, transparent, and customizable operating system, prioritizing user freedom.
