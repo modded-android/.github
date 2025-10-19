@@ -1,1 +1,3 @@
-to consolidate our branding we have moved the repos and modded-android project to the [AWFixer Platform](https://github.com/awfixer-platform) Organization.
+[Discord]: https://inv.wtf/moddedandroid
+
+This is going to take a while to fully build out, please give us some time and do not be afraid to join the [Discord]
