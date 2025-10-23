@@ -20,19 +20,19 @@
 
 <!-- info section -->
 
-## Whtat is Modded Android?
+<h2 align="center"> Whtat is Modded Android? </h2>
 
 
 
-## Why Now?
+<h2 align="center"> Why Now? </h2>
 
 
 
-## Money?
+<h2 align="center"> Money? </h2>
 
 
 
-## Goals?
+<h2 align="center"> Goals? </h2>
 
 yes, we have a series of goals
 
