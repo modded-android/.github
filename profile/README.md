@@ -7,6 +7,13 @@
 [guns]: https://guns.lol/fixer
 [Lineage]: https://lineageos.org
 [Graphene]: https://grapheneos.org
+[librephone]: https://www.fsf.org/campaigns/librephone
+[Google]: https://about.google/
+[Java]: https://www.java.com/
+[Rust]: https://rust-lang.org/
+[Nim]: https://nim-lang.org/
+[Zig]: https://ziglang.org/
+[Kotlin]: https://kotlinlang.org/
 
 <!-- hero section -->
 
@@ -25,7 +32,8 @@
 
 <h2 align="center"> What is Modded Android? </h2>
 
-
+> [!NOTE]
+> Modded Android is not like [Librephone]. They are generally targetting the ecosystem of platforms that Android serves, we are being extremely surgical about what we are building
 
 <h2 align="center"> Why Now? </h2>
 
@@ -41,7 +49,7 @@ yes, we have a series of goals
 
 we want to target a single platform for MA, at least in the beginning. this will allow us to create optimizations that we otherwise would be unable to work on.
 
-we also plan on migrating all legacy code (java/kotlin/c/cpp) to modern equivilents like rust/zig/nim/v, with things like go/carbon used where needed.
+we also plan on migrating all legacy code ([Java]/[kotlin]/c/cpp) to modern equivilents like [rust]/[zig]/[nim]/v, with things like go/carbon used where needed.
 
 
 <!-- we are watching you -->
