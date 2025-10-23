@@ -1,11 +1,14 @@
 <!-- links for markdown -->
+
 [Discord]: https://inv.wtf/moddedandroid
 [AWFixer]: https://theautist.me
 [Friends]: https://awfixer.com
+[Site]: https://modded-android.dev
+[guns]: https://guns.lol/fixer
+[Lineage]: https://lineageos.org
+[Graphene]: https://grapheneos.org
 
 <!-- hero section -->
-
-
 
 <h1 align="center"><a href="https://modded-android.dev"> Modded Android </a></h1>
 
@@ -20,17 +23,17 @@
 
 <!-- info section -->
 
-<h2 align="center"> Whtat is Modded Android? </h2>
+<h2 align="center"> What is Modded Android? </h2>
 
 
 
 <h2 align="center"> Why Now? </h2>
 
-
+[Google] is no longer dealing with Android in good faith in my opinion, and in order to fight back we forked the 14th generation of android to create Modded Android. It is a thing we have wanted to do for a while, and we have seen a lot of Android based operating systems out there like [Lineage] and [Graphene]. Modded Android is different then them as it is a full fork with full intentions to fully rewrite it, and create it's own competing ecosystem.
 
 <h2 align="center"> Money? </h2>
 
-
+hi, im austin - the founder/creator/dev/filltheblank for Modded Android at the time of writing. If you wanna gimme money, i am not going to stop you, this project will get expensive fast. you can visit my [guns] biolink and use one of the links there, cashapp/kofi/patreon, even cryptocurrency if that is your jam
 
 <h2 align="center"> Goals? </h2>
 
