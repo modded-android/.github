@@ -77,7 +77,7 @@ hi, im austin - the founder/creator/dev/filltheblank for Modded Android at the t
       <br>
       Bitcoin (BTC)
       <br>
-      <code>your-bitcoin-wallet-address-here</code>
+      <code>bc1q28ept40pz26y8m0j3ej522738g0vtvhrr9dhyl</code>
     </td>
     <td style="text-align: center; padding: 10px;">
       <a href="https://ethereum.org/" target="_blank">
@@ -86,16 +86,16 @@ hi, im austin - the founder/creator/dev/filltheblank for Modded Android at the t
       <br>
       Ethereum (ETH)
       <br>
-      <code>your-ethereum-wallet-address-here</code>
+      <code>0x729A7D17d745DA6f1b97f39bEc6f9fa218b39a1D</code>
     </td>
     <td style="text-align: center; padding: 10px;">
-      <a href="https://litecoin.org/" target="_blank">
-        <img src="../images/ltc.svg" alt="Litecoin Logo" style="height: 50px; width: auto; border: 0;">
+      <a href="https://zano.org/" target="_blank">
+        <img src="../images/zano.png" alt="Zano Logo" style="height: 50px; width: auto; border: 0;">
       </a>
       <br>
-      Litecoin (LTC)
+      Zano
       <br>
-      <code>your-litecoin-wallet-address-here</code>
+      <code>ZxCNiXke6CWXngcVd8A5GaUAcHMEiMjRe8GQEovpTZSaeUmsUwaebKhDuvpWg6GFFVTf7rH8UF9v8HH5GFyRgJ2Q1KRzjBTnK</code>
     </td>
     <td style="text-align: center; padding: 10px;">
       <a href="https://dogecoin.com/" target="_blank">
@@ -104,7 +104,7 @@ hi, im austin - the founder/creator/dev/filltheblank for Modded Android at the t
       <br>
       Dogecoin (DOGE)
       <br>
-      <code>your-dogecoin-wallet-address-here</code>
+      <code> DRu3cCJKHmriJ1DtZc8wUbW7C8XhzrkVkq</code>
     </td>
     <td style="text-align: center; padding: 10px;">
       <a href="https://solana.com/" target="_blank">
@@ -113,16 +113,16 @@ hi, im austin - the founder/creator/dev/filltheblank for Modded Android at the t
       <br>
       Solana (SOL)
       <br>
-      <code>your-solana-wallet-address-here</code>
+      <code>HKc31GRgS4LSx4VjcjKTb47eXAzgCKoBoLtuHgEz8dku</code>
     </td>
     <td style="text-align: center; padding: 10px;">
-      <a href="https://cardano.org/" target="_blank">
-        <img src="../images/ada.svg" alt="Cardano Logo" style="height: 50px; width: auto; border: 0;">
+      <a href="https://decred.org/" target="_blank">
+        <img src="../images/decred.svg" alt="Decred Logo" style="height: 50px; width: auto; border: 0;">
       </a>
       <br>
-      Cardano (ADA)
+      Decred
       <br>
-      <code>your-cardano-wallet-address-here</code>
+      <code>DsVgp7HyF54qpmHTYv93ZhjAjxAoS8qucvN</code>
     </td>
   </tr>
 </table>
@@ -135,6 +135,7 @@ yes, we have a series of goals
 we want to target a single platform for MA, at least in the beginning. this will allow us to create optimizations that we otherwise would be unable to work on.
 
 we also plan on migrating all legacy code ([Java]/[kotlin]/c/cpp) to modern equivilents like [rust]/[zig]/[nim]/v, with things like go/carbon used where needed.
+
 
 
 <!-- we are watching you -->
