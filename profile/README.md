@@ -14,6 +14,7 @@
 [Nim]: https://nim-lang.org/
 [Zig]: https://ziglang.org/
 [Kotlin]: https://kotlinlang.org/
+[Donate]: https://github.com/modded-android/system/wiki/donate
 
 <!-- hero section -->
 
@@ -146,6 +147,6 @@ we also plan on migrating all legacy code ([Java]/[kotlin]/c/cpp) to modern equi
 
 ![ghpvc](https://komarev.com/ghpvc/?username=modded-android)
 
-made with ❤️ by [AWFixer] and [Friends] ©️ 2025 All Rights Reserved
+made with ❤️ by [AWFixer] and [Friends] ©️ 2025 All Rights Reserved [Donate]
 
 </div>
