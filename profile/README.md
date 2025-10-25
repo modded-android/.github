@@ -5,16 +5,27 @@
 [Friends]: https://awfixer.com
 [Site]: https://modded-android.dev
 [guns]: https://guns.lol/fixer
+[Paper]: https://paper.modded-android.dev
+[Goals Paper]: https://paper.modded-android.dev/paper
+[Github Repos]: https://github.com/orgs/modded-android/repositories
+
 [Lineage]: https://lineageos.org
 [Graphene]: https://grapheneos.org
 [librephone]: https://www.fsf.org/campaigns/librephone
+[Android 14]: http://android.com/android-14/
+
 [Google]: https://about.google/
+
 [Java]: https://www.java.com/
 [Rust]: https://rust-lang.org/
 [Nim]: https://nim-lang.org/
 [Zig]: https://ziglang.org/
 [Kotlin]: https://kotlinlang.org/
-[Donate]: https://github.com/modded-android/system/wiki/donate
+[c]: https://en.wikipedia.org/wiki/C_(programming_language)
+[v]: https://vlang.io
+[carbon]: https://carbon-lang.dev
+[go]: https://go.dev
+[cpp]: https://cpp-lang.net
 
 <!-- hero section -->
 
@@ -35,6 +46,14 @@
 
 > [!NOTE]
 > Modded Android is not like [Librephone]. They are generally targetting the ecosystem of platforms that Android serves, we are being extremely surgical about what we are building
+
+this part has been slimmed down a lot and moved to the [Paper] site
+
+one thing that you have to think about when you are making a project, is how do you make a project that will both solve a problem, or series of problems, and also be recieved well by the community. The main way that you do that is you work on a problem that has been previously solved, though for one reason or another that solution has been abandoned, broken, or otherwise corrupted. That is what modded Android is.
+
+We will be taking the codebase for [Android 14], removing anything and everything [Google] related, and also stripping out the various Arch parts, as we will no longer be providing broad device support. We will then be working on completely porting and rewriting the codebase in modern, safe languages, as detailed on the [Paper] site and in the goals section below.
+
+be sure to check out the [Discord], the [Github Repos], and see what you think. We are always open to hearing from you on the Discord.
 
 <h2 align="center"> Why Now? </h2>
 
@@ -135,8 +154,11 @@ yes, we have a series of goals
 
 we want to target a single platform for MA, at least in the beginning. this will allow us to create optimizations that we otherwise would be unable to work on.
 
-we also plan on migrating all legacy code ([Java]/[kotlin]/c/cpp) to modern equivilents like [rust]/[zig]/[nim]/v, with things like go/carbon used where needed.
+we also plan on migrating all legacy code ([Java]/[kotlin]/[c]/[cpp]) to modern equivilents like [rust]/[zig]/[nim]/[v], with things like [go]/[carbon] used where needed.
 
+we also plan on having no security bugs and the slimist codebase for this type of project.
+
+for more goal info see the [Goals Paper]
 
 
 <!-- we are watching you -->
@@ -147,6 +169,6 @@ we also plan on migrating all legacy code ([Java]/[kotlin]/c/cpp) to modern equi
 
 ![ghpvc](https://komarev.com/ghpvc/?username=modded-android)
 
-made with ❤️ by [AWFixer] and [Friends] ©️ 2025 All Rights Reserved [Donate]
+made with ❤️ by [AWFixer] and [Friends] ©️ 2025 All Rights Reserved
 
 </div>
