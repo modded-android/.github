@@ -97,7 +97,7 @@ hi, im austin - the founder/creator/dev/filltheblank for Modded Android at the t
       <br>
       Bitcoin (BTC)
       <br>
-      <code>bc1q28ept40pz26y8m0j3ej522738g0vtvhrr9dhyl</code>
+      <code>sp1qq0vfvm84j5a4h62qwhmgktu9pec8zk5nv6yaxy6jemar74ty05ff6q40gt9v47c3dtmrxszumh3633d9ap86rf9rd2w5m2n7kju5w0ccxcz2xxst</code>
     </td>
     <td style="text-align: center; padding: 10px;">
       <a href="https://ethereum.org/" target="_blank">
@@ -106,7 +106,7 @@ hi, im austin - the founder/creator/dev/filltheblank for Modded Android at the t
       <br>
       Ethereum (ETH)
       <br>
-      <code>0x729A7D17d745DA6f1b97f39bEc6f9fa218b39a1D</code>
+      <code>0x1Aeb1b886B0f4c082b78ec006B9a2824Ad23EF03</code>
     </td>
     <td style="text-align: center; padding: 10px;">
       <a href="https://zano.org/" target="_blank">
@@ -124,7 +124,7 @@ hi, im austin - the founder/creator/dev/filltheblank for Modded Android at the t
       <br>
       Dogecoin (DOGE)
       <br>
-      <code> DRu3cCJKHmriJ1DtZc8wUbW7C8XhzrkVkq</code>
+      <code>DAaNJBFh96A4G5ZrV9idHPMFfp9JVRrrVH</code>
     </td>
     <td style="text-align: center; padding: 10px;">
       <a href="https://solana.com/" target="_blank">
@@ -133,7 +133,7 @@ hi, im austin - the founder/creator/dev/filltheblank for Modded Android at the t
       <br>
       Solana (SOL)
       <br>
-      <code>HKc31GRgS4LSx4VjcjKTb47eXAzgCKoBoLtuHgEz8dku</code>
+      <code>51LsPshM96deVbf8sbkfmsgHC3k3sRLDw4Zz2mNsGFi7</code>
     </td>
     <td style="text-align: center; padding: 10px;">
       <a href="https://decred.org/" target="_blank">
