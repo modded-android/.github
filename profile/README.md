@@ -6,7 +6,7 @@
 [Site]: https://modded-android.dev
 [guns]: https://guns.lol/fixer
 [Paper]: https://paper.modded-android.dev
-[Goals Paper]: https://paper.modded-android.dev/paper
+[Goals Paper]: https://help.awfixer.com/ma/goals
 [Github Repos]: https://github.com/orgs/modded-android/repositories
 
 [Lineage]: https://lineageos.org
@@ -26,6 +26,11 @@
 [carbon]: https://carbon-lang.dev
 [go]: https://go.dev
 [cpp]: https://cpp-lang.net
+
+[m6m]: https://mee6.xyz/en/m/1411638016572784722
+[Patreon]: https://patreon.com/awfixer
+[GitHub Sponsors]: https://github.com/sponsors/awfixer
+[Donorbox]: https://donorbox.org/modded-android-fundraiser
 
 <!-- hero section -->
 
@@ -81,91 +86,10 @@ be sure to check out the [Discord], the [Github Repos], and see what you think. 
 
 <h2 align="center"> Money? </h2>
 
-hi, im austin - the founder/creator/dev/filltheblank for Modded Android at the time of writing. If you wanna gimme money, i am not going to stop you, this project will get expensive fast. you can visit my [guns] biolink and use one of the links there, cashapp/kofi/patreon, even cryptocurrency if that is your jam
+you can give money to the project the following ways:
+<br/>
 
-<table align="center" style="border-collapse: collapse; margin: 0 auto;">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://ko-fi.com/Y8Y5TPYQF" target="_blank">
-        <img src="https://storage.ko-fi.com/cdn/kofi5.png?v=6" alt="Buy Me a Coffee at ko-fi.com" style="height: 50px; width: auto; border: 0;">
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=J5H8AXQTEZ7QQ">
-        <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate with PayPal button" style="height: 50px; width: auto; border: 0;">
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.patreon.com/awfixer">
-        <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" style="height: 50px; width: auto; border: 0;">
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.buymeacoffee.com/awfixer" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: auto; border: 0;">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td style="text-align: center; padding: 10px;">
-      <a href="https://bitcoin.org/" target="_blank">
-        <img src="../images/btc.svg" alt="Bitcoin Logo" style="height: 50px; width: auto; border: 0;">
-      </a>
-      <br>
-      Bitcoin (BTC)
-      <br>
-      <code>sp1qq0vfvm84j5a4h62qwhmgktu9pec8zk5nv6yaxy6jemar74ty05ff6q40gt9v47c3dtmrxszumh3633d9ap86rf9rd2w5m2n7kju5w0ccxcz2xxst</code>
-    </td>
-    <td style="text-align: center; padding: 10px;">
-      <a href="https://ethereum.org/" target="_blank">
-        <img src="../images/eth.svg" alt="Ethereum Logo" style="height: 50px; width: auto; border: 0;">
-      </a>
-      <br>
-      Ethereum (ETH)
-      <br>
-      <code>0x1Aeb1b886B0f4c082b78ec006B9a2824Ad23EF03</code>
-    </td>
-    <td style="text-align: center; padding: 10px;">
-      <a href="https://zano.org/" target="_blank">
-        <img src="../images/zano.png" alt="Zano Logo" style="height: 50px; width: auto; border: 0;">
-      </a>
-      <br>
-      Zano
-      <br>
-      <code>ZxCNiXke6CWXngcVd8A5GaUAcHMEiMjRe8GQEovpTZSaeUmsUwaebKhDuvpWg6GFFVTf7rH8UF9v8HH5GFyRgJ2Q1KRzjBTnK</code>
-    </td>
-    <td style="text-align: center; padding: 10px;">
-      <a href="https://dogecoin.com/" target="_blank">
-        <img src="../images/doge.svg" alt="Dogecoin Logo" style="height: 50px; width: auto; border: 0;">
-      </a>
-      <br>
-      Dogecoin (DOGE)
-      <br>
-      <code>DAaNJBFh96A4G5ZrV9idHPMFfp9JVRrrVH</code>
-    </td>
-    <td style="text-align: center; padding: 10px;">
-      <a href="https://solana.com/" target="_blank">
-        <img src="../images/solana.svg" alt="Solana Logo" style="height: 50px; width: auto; border: 0;">
-      </a>
-      <br>
-      Solana (SOL)
-      <br>
-      <code>51LsPshM96deVbf8sbkfmsgHC3k3sRLDw4Zz2mNsGFi7</code>
-    </td>
-    <td style="text-align: center; padding: 10px;">
-      <a href="https://decred.org/" target="_blank">
-        <img src="../images/decred.svg" alt="Decred Logo" style="height: 50px; width: auto; border: 0;">
-      </a>
-      <br>
-      Decred
-      <br>
-      <code>DsVgp7HyF54qpmHTYv93ZhjAjxAoS8qucvN</code>
-    </td>
-  </tr>
-</table>
+[DonorBox] | [m6m] | [Patreon] | [GitHub Sponsors]
 
 
 <h2 align="center"> Goals? </h2>
