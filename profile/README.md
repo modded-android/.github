@@ -1,6 +1,6 @@
 <!-- links for markdown -->
 
-[Discord]: https://inv.wtf/moddedandroid
+[Discord]: https://discord.awfixer.com
 [AWFixer]: https://theautist.me
 [Friends]: https://awfixer.com
 [Site]: https://modded-android.dev
