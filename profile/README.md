@@ -1,7 +1,7 @@
 <!-- links for markdown -->
 
 [Discord]: https://discord.awfixer.com
-[AWFixer]: https://theautist.me
+[AWFixer]: https://awfixer.me
 [Friends]: https://awfixer.com
 [Site]: https://modded-android.dev
 [guns]: https://guns.lol/fixer
